@@ -6,6 +6,8 @@ import (
 	"fmt"
 	"os"
 
+	"github.com/urfave/cli/v2"
+
 	"github.com/mars-yklzz/wallet-sign-go/common/opio"
 )
 
